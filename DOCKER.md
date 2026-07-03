@@ -7,4 +7,4 @@ scaffolder), served with Vite.
 docker compose up --build
 ```
 
-Open **http://localhost:5173**. Pinned: Node 24.1.0 / npm 11.5.0, scaffolder create-vue 3.22.0.
+Open **http://localhost**. Pinned: Node 24.1.0 / npm 11.5.0, scaffolder create-vue 3.22.0.
